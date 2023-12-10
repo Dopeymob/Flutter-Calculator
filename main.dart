@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:nisha_calculator/Colors.dart';
 import 'package:math_expressions/math_expressions.dart';
 
 void main() {
